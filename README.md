@@ -37,6 +37,13 @@ netlify dev
 
 Then open http://localhost:8888/test on your browser
 
+## Useful links
+
+- Cloudflare Workers: https://workers.cloudflare.com/
+- Announcing wrangler dev: https://blog.cloudflare.com/announcing-wrangler-dev-the-edge-on-localhost/
+- Get started with Netlify Edge Functions:
+  https://docs.netlify.com/netlify-labs/experimental-features/edge-functions/get-started/
+
 ## Author
 
 👤 **Dung Huynh Duc**
