@@ -9,16 +9,13 @@
 ## Usage
 
 ```sh
-npm install -g wrangler
-npm install netlify-cli -g
+make install
 ```
 
 ## Run Cloudflare Worker Function (wrangler)
 
 ```sh
-cd hello
-npm install
-wrangler dev
+make cloudflare-dev
 ```
 
 Then open at http://localhost:8787 on your browser.
@@ -26,18 +23,10 @@ Then open at http://localhost:8787 on your browser.
 ## Run Netlify Edge Functions
 
 ```sh
-netlify dev
+make netlify-dev
 ```
 
 Then open http://localhost:8888/test on your browser.
-
-## Run Netlify Edge Functions
-
-```sh
-netlify dev
-```
-
-Then open http://localhost:8888/test on your browser
 
 ## Useful links
 
