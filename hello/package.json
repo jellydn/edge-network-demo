@@ -2,8 +2,8 @@
   "name": "hello",
   "version": "0.0.0",
   "devDependencies": {
-    "@cloudflare/workers-types": "4.20240320.1",
-    "typescript": "5.4.3",
+    "@cloudflare/workers-types": "4.20240524.0",
+    "typescript": "5.4.5",
     "wrangler": "3.36.0"
   },
   "private": true,
